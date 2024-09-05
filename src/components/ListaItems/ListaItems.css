@@ -1,0 +1,12 @@
+.ListaCompras {
+    padding: 30px ;
+    margin: 0px;
+    background-color: beige;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.Vacio{
+    background-color: gray;
+    height: 10px;
+}
